@@ -15,7 +15,7 @@
 
 - Mocha.js: [mocha-eslint](https://www.npmjs.com/package/mocha-eslint)
 
-- [React](https://github.com/yannickcr/eslint-plugin-react)
+- React: [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
 
 
 
