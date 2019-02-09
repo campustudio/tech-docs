@@ -1,2 +1,2 @@
-# config-docs
-store config docs for daily projects
+# tech-docs
+technical guidance/summaries
